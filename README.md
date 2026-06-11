@@ -1,1 +1,3 @@
-# Projet_ESP32_DEV
+# Projet-AVG
+
+Projet électronique — carte de monitoring ESP32 (Équipe 4 GROUPE WEED).
